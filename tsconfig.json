@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "ES2021",
+    "downlevelIteration": true,
+    "module": "esnext",
+    "strict": true,
+    "moduleResolution": "node",
+    "outDir": "./build/.ts-tmp",
+    "composite": true,
+    "declarationMap": false,
+    "declaration": true,
+    "baseUrl": "./",
+    "rootDir": "./",
+    "allowSyntheticDefaultImports": true,
+    "noUnusedLocals": true,
+    "sourceMap": false,
+    "lib": ["esnext", "dom"]
+  },
+  "exclude": [
+    "examples/"
+  ]
+}

@@ -71,6 +71,8 @@ As you can see, each value is wrapped in an object
 the `index` fields of the objects have the correct value.
 This is necessary for iteration over storage keys to work in `storage-facade`.
 
+There are similar libraries for other storages: [localStorage](https://www.npmjs.com/package/storage-facade-localstorage), [sessionStorage](https://www.npmjs.com/package/storage-facade-sessionstorage), [Map](https://www.npmjs.com/package/storage-facade-map).
+
 # Usage
 
 ## Storage methods

@@ -1,6 +1,6 @@
 {
   "name": "storage-facade-indexeddb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An simple way to store data in indexedDB.",
   "author": "Vadim Glinka <vadgit@yandex.com>",
   "license": "(MIT OR Apache-2.0)",
